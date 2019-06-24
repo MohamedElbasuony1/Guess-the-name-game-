@@ -1,0 +1,135 @@
+F:\C# ITI\Project\Client\Client\bin\Debug\Client.exe.config
+F:\C# ITI\Project\Client\Client\bin\Debug\Client.exe
+F:\C# ITI\Project\Client\Client\bin\Debug\Client.pdb
+F:\C# ITI\Project\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\C# ITI\Project\Client\Client\obj\Debug\Client.Home.resources
+F:\C# ITI\Project\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\C# ITI\Project\Client\Client\obj\Debug\Client.Welcome.resources
+F:\C# ITI\Project\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\C# ITI\Project\Client\Client\obj\Debug\Client.exe
+F:\C# ITI\Project\Client\Client\obj\Debug\Client.pdb
+F:\C# ITI\Project\Client\Client\obj\Debug\Client.RoomCtr.resources
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\bin\Debug\Client.exe.config
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\bin\Debug\Client.exe
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\bin\Debug\Client.pdb
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.Home.resources
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.RoomCtr.resources
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.Welcome.resources
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.exe
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.pdb
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.CreateRoom.resources
+E:\ITI Prog\C#\Project\19-2-2019\Client\Client\obj\Debug\Client.Play.resources
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\bin\Debug\Client.exe
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\bin\Debug\Client.pdb
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.Home.resources
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.Play.resources
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.RoomCtr.resources
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.Welcome.resources
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.exe
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Client\Client\obj\Debug\Client.pdb
+C:\Users\LENOVO\Music\c#\Client\Client\bin\Debug\Client.exe.config
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.exe
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.pdb
+C:\Users\LENOVO\Music\c#\Client\Client\bin\Debug\Client.exe
+C:\Users\LENOVO\Music\c#\Client\Client\bin\Debug\Client.pdb
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.Home.resources
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.Play.resources
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.RoomCtr.resources
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.Welcome.resources
+C:\Users\LENOVO\Music\c#\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\bin\Debug\Client.exe
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\bin\Debug\Client.pdb
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.Home.resources
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.Play.resources
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.RoomCtr.resources
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.Welcome.resources
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.exe
+C:\Users\Sala7\Music\20-2-2019\ClientNotYet2\Client\Client\obj\Debug\Client.pdb
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\bin\Debug\Client.exe.config
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.exe
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.pdb
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\bin\Debug\Client.exe
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\bin\Debug\Client.pdb
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.Home.resources
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.Play.resources
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.RoomCtr.resources
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.Welcome.resources
+C:\Users\LENOVO\Music\ClientNotYet2New22\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\2-21-2019\final3\ClientNotYet2New22\Client\Client\bin\Debug\Client.exe.config
+E:\2-21-2019\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.exe
+E:\2-21-2019\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.pdb
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\bin\Debug\Client.exe.config
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.exe
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.pdb
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\bin\Debug\Client.exe
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\bin\Debug\Client.pdb
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.CreateRoom.resources
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Home.resources
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Play.resources
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.RoomCtr.resources
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Welcome.resources
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Watch.resources
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.exe
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.pdb
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\bin\Debug\Client.exe
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\bin\Debug\Client.pdb
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Home.resources
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Play.resources
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.RoomCtr.resources
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Watch.resources
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.Welcome.resources
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.exe
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.pdb
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\bin\Debug\Client.exe
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\bin\Debug\Client.pdb
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.CreateRoom.resources
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.Home.resources
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.Play.resources
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.RoomCtr.resources
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.Watch.resources
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.Welcome.resources
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\C# ITI\C# Project\C# Project\Client\Client\bin\Debug\Client.exe.config
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.exe
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.pdb
+F:\C# ITI\C# Project\C# Project\Client\Client\bin\Debug\Client.exe
+F:\C# ITI\C# Project\C# Project\Client\Client\bin\Debug\Client.pdb
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.CreateRoom.resources
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.Home.resources
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.Play.resources
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.RoomCtr.resources
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.Watch.resources
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.Welcome.resources
+F:\C# ITI\C# Project\C# Project\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache

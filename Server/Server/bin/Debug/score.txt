@@ -1,0 +1,3 @@
+Basuony: 1, Basuony2: 0
+ffd: 2, Basuony2: 1
+basuony: 0, basuony2: 1

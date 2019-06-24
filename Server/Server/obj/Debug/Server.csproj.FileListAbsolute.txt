@@ -1,0 +1,51 @@
+F:\C# ITI\Project2\Server\Server\bin\Debug\Server.exe.config
+F:\C# ITI\Project2\Server\Server\bin\Debug\Server.exe
+F:\C# ITI\Project2\Server\Server\bin\Debug\Server.pdb
+F:\C# ITI\Project2\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\C# ITI\Project2\Server\Server\obj\Debug\Server.exe
+F:\C# ITI\Project2\Server\Server\obj\Debug\Server.pdb
+E:\ITI Prog\C#\Project\18-2-2019\Server\Server\bin\Debug\Server.exe.config
+E:\ITI Prog\C#\Project\18-2-2019\Server\Server\bin\Debug\Server.exe
+E:\ITI Prog\C#\Project\18-2-2019\Server\Server\bin\Debug\Server.pdb
+E:\ITI Prog\C#\Project\18-2-2019\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\ITI Prog\C#\Project\18-2-2019\Server\Server\obj\Debug\Server.exe
+E:\ITI Prog\C#\Project\18-2-2019\Server\Server\obj\Debug\Server.pdb
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Server\Server\bin\Debug\Server.exe
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Server\Server\bin\Debug\Server.pdb
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Server\Server\obj\Debug\Server.exe
+C:\Users\Sala7\Music\20-2-2019\20-2-2019\Server\Server\obj\Debug\Server.pdb
+C:\Users\LENOVO\Music\ClientNotYet2New22\Server\Server\bin\Debug\Server.exe.config
+C:\Users\LENOVO\Music\ClientNotYet2New22\Server\Server\obj\Debug\Server.exe
+C:\Users\LENOVO\Music\ClientNotYet2New22\Server\Server\obj\Debug\Server.pdb
+C:\Users\LENOVO\Music\ClientNotYet2New22\Server\Server\bin\Debug\Server.exe
+C:\Users\LENOVO\Music\ClientNotYet2New22\Server\Server\bin\Debug\Server.pdb
+C:\Users\LENOVO\Music\ClientNotYet2New22\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\2-21-2019\final3\ClientNotYet2New22\Server\Server\bin\Debug\Server.exe.config
+E:\2-21-2019\final3\ClientNotYet2New22\Server\Server\obj\Debug\Server.exe
+E:\2-21-2019\final3\ClientNotYet2New22\Server\Server\obj\Debug\Server.pdb
+E:\2-21-2019\final3\ClientNotYet2New22\Server\Server\bin\Debug\Server.exe
+E:\2-21-2019\final3\ClientNotYet2New22\Server\Server\bin\Debug\Server.pdb
+E:\2-21-2019\final3\ClientNotYet2New22\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Server\Server\bin\Debug\Server.exe.config
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Server\Server\obj\Debug\Server.exe
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Server\Server\obj\Debug\Server.pdb
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Server\Server\bin\Debug\Server.exe
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Server\Server\bin\Debug\Server.pdb
+E:\2-21-2019\final3new6\final3\ClientNotYet2New22\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Server\Server\obj\Debug\Server.exe
+C:\Users\Basuony\Music\ProjectC#\final3\ClientNotYet2New22\Server\Server\obj\Debug\Server.pdb
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Server\Server\obj\Debug\Server.exe
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Server\Server\obj\Debug\Server.pdb
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Server\Server\bin\Debug\Server.exe
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Server\Server\bin\Debug\Server.pdb
+C:\Users\Basuony\Music\ProjectC#\final3\C# Project\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\C# ITI\C# Project\C# Project\Server\Server\bin\Debug\Server.exe.config
+F:\C# ITI\C# Project\C# Project\Server\Server\obj\Debug\Server.exe
+F:\C# ITI\C# Project\C# Project\Server\Server\obj\Debug\Server.pdb
+F:\C# ITI\C# Project\C# Project\Server\Server\bin\Debug\Server.exe
+F:\C# ITI\C# Project\C# Project\Server\Server\bin\Debug\Server.pdb
+F:\C# ITI\C# Project\C# Project\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
